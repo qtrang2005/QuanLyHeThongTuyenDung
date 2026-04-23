@@ -12,7 +12,7 @@ namespace Hệ_thống_quản_lý_tuyển_dụng
             SetupTabControl();
         }
 
-        // ═══════════════════════════════════════════════
+        // ═══════════════════════════════════════════════ 
         // SETUP TAB CONTROL – giống Form10/Form11
         // ═══════════════════════════════════════════════
         private void SetupTabControl()
