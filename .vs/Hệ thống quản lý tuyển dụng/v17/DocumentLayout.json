@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{006D90B9-F6C4-4642-AE1A-A9D76F4A8403}|H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng.csproj|d:\\dhcntt23b\\hk6\\cnpm\\h\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{006D90B9-F6C4-4642-AE1A-A9D76F4A8403}|H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006D90B9-F6C4-4642-AE1A-A9D76F4A8403}|H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng.csproj|d:\\dhcntt23b\\hk6\\cnpm\\h\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{006D90B9-F6C4-4642-AE1A-A9D76F4A8403}|H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng.csproj|solutionrelative:form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006D90B9-F6C4-4642-AE1A-A9D76F4A8403}|H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng.csproj|D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006D90B9-F6C4-4642-AE1A-A9D76F4A8403}|H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng.csproj|solutionrelative:form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006D90B9-F6C4-4642-AE1A-A9D76F4A8403}|H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng.csproj|D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\form12.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006D90B9-F6C4-4642-AE1A-A9D76F4A8403}|H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng.csproj|solutionrelative:form12.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006D90B9-F6C4-4642-AE1A-A9D76F4A8403}|H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng.csproj|D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006D90B9-F6C4-4642-AE1A-A9D76F4A8403}|H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T01:48:33.821Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\Form4.cs [Design]",
+              "RelativeToolTip": "Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T00:08:33.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form12.cs",
+              "DocumentMoniker": "D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\Form12.cs",
+              "RelativeDocumentMoniker": "Form12.cs",
+              "ToolTip": "D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\Form12.cs",
+              "RelativeToolTip": "Form12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T02:40:57.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form12.Designer.cs",
+              "DocumentMoniker": "D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\Form12.Designer.cs",
+              "RelativeDocumentMoniker": "Form12.Designer.cs",
+              "ToolTip": "D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\Form12.Designer.cs",
+              "RelativeToolTip": "Form12.Designer.cs",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAswIwBAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T02:39:19.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form12.cs [Design]",
+              "DocumentMoniker": "D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\Form12.cs",
+              "RelativeDocumentMoniker": "Form12.cs",
+              "ToolTip": "D:\\DHCNTT23B\\HK6\\CNPM\\H\u1EC7 th\u1ED1ng qu\u1EA3n l\u00FD tuy\u1EC3n d\u1EE5ng\\Form12.cs [Design]",
+              "RelativeToolTip": "Form12.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T02:35:34.538Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

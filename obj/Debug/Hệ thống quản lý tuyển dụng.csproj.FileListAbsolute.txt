@@ -1,0 +1,22 @@
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\bin\Debug\Hệ thống quản lý tuyển dụng.exe.config
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\bin\Debug\Hệ thống quản lý tuyển dụng.exe
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\bin\Debug\Hệ thống quản lý tuyển dụng.pdb
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ thống quản lý tuyển dụng.csproj.AssemblyReference.cache
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Form1.resources
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Properties.Resources.resources
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ thống quản lý tuyển dụng.csproj.GenerateResource.cache
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ thống quản lý tuyển dụng.csproj.CoreCompileInputs.cache
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ thống quản lý tuyển dụng.exe
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ thống quản lý tuyển dụng.pdb
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ thống quản lý tuyển dụng.exe.config
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Thaydoi.resources
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Form3.resources
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Form4.resources
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Form5.resources
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Form6.resources
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Form7.resources
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Form8.resources
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Form9.resources
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Form10.resources
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Form11.resources
+D:\DHCNTT23B\HK6\CNPM\Hệ thống quản lý tuyển dụng\obj\Debug\Hệ_thống_quản_lý_tuyển_dụng.Form12.resources
